@@ -1,7 +1,3 @@
-Certainly! Here's a short introductory section for the README of your music discovery game project:
-
----
-
 # Melody Mingle
 
 ## Introduction
