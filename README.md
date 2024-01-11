@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Melody Mingle, an innovative music discovery game that brings people together through the universal language of music. This project is designed as a web-based application where users can participate in a unique social experience, sharing and discovering music in a fun and interactive way.
+Welcome to Melody Mingle (working title, will change), an innovative music discovery game that brings people together through the universal language of music. This project is designed as a web-based application where users can participate in a unique social experience, sharing and discovering music in a fun and interactive way.
 
 ## About the Game
 
