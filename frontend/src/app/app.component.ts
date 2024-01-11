@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
+import { StartScreenComponent } from './components/start-screen/start-screen.component'; // Adjust the path as necessary
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet],
+  imports: [CommonModule, RouterOutlet,StartScreenComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
